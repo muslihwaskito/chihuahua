@@ -1,0 +1,104 @@
+.Socials_link__5KkFt {
+    transition: filter .4s;
+    width: 40px;
+    height: 40px
+}
+
+.Socials_link__5KkFt:hover {
+    filter: blur(1.5px)
+}
+
+.Socials_link__5KkFt:active {
+    filter: none
+}
+
+.Socials_medium__v4vTt {
+    background-image: url(../fonts/medium.e98e7815.svg)
+}
+
+.Socials_medium__v4vTt:active {
+    background-image: url(../fonts/medium.285b84a2.svg)
+}
+
+.Socials_github__ek_K1 {
+    background-image: url(../fonts/github.dffb2e9a.svg)
+}
+
+.Socials_github__ek_K1:active {
+    background-image: url(../fonts/github.cdc969a6.svg)
+}
+
+.Socials_telegram__QwUKQ {
+    background-image: url(../fonts/telegram.f4b52667.svg)
+}
+
+.Socials_telegram__QwUKQ:active {
+    background-image: url(../fonts/telegram.acbb0aef.svg)
+}
+
+.Socials_discord__sNhzP {
+    background-image: url(../fonts/discord.d8d40368.svg)
+}
+
+.Socials_discord__sNhzP:active {
+    background-image: url(../fonts/discord.276ff9ae.svg)
+}
+
+.Socials_twitter__Gic6w {
+    background-image: url(../fonts/twitter.f96ab3b0.svg)
+}
+
+.Socials_twitter__Gic6w:active {
+    background-image: url(../fonts/twitter.25221865.svg)
+}
+
+.Button_btn__R8YYU {
+    display: inline-block;
+    --tw-border-opacity: 1;
+    border-color: rgb(242 241 244/var(--tw-border-opacity));
+    font-family: Ubuntu, ui-sans-serif, system-ui;
+    --tw-text-opacity: 1;
+    color: rgb(242 241 244/var(--tw-text-opacity));
+    transition: filter .4s;
+    font-weight: 700;
+    cursor: pointer
+}
+
+.Button_btn__R8YYU span {
+    display: inline-block;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    min-width: 150px;
+    border: 2px solid;
+    border-radius: 20px
+}
+
+@media (min-width:640px) {
+    .Button_btn__R8YYU span {
+        font-size: 20px;
+        min-width: 194px
+    }
+}
+
+.Button_btn__R8YYU.Button_big__lJ7x5 span {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 20px;
+    min-width: 194px
+}
+
+.Button_btn__R8YYU:hover {
+    filter: blur(3px)
+}
+
+.Button_btn__R8YYU:active {
+    filter: blur(0);
+    transition: none
+}
+
+.Button_btn__R8YYU:active span {
+    background: #f2f1f4;
+    color: #fed62e
+}
